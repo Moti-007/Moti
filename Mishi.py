@@ -73,14 +73,14 @@ banner = """
 \x1b[1;91m | |\/| | | |  \___ \|  __  | / /\ \ | |     
 \x1b[1;91m | |  | |_| |_ ____) | |  | |/ ____ \| |____ 
 \x1b[1;91m |_|  |_|_____|_____/|_|  |_/_/    \_\______|
-\x1b[1;93m  ( QUEEN OF FACEBOOK )馃尮(QUEEN OF CLONING)
+\x1b[1;93m  ( QUEEN OF FACEBOOK )🌹❤🌹(QUEEN OF CLONING)
 \x1b[1;95m----------------------------------------------------
-\x1b[1;91m鉃oder : MISHAL KHAN MISHI馃尮馃尮
-\x1b[1;91m鉃ithub: HTTPS://GITHUB.COM/MISHI007馃尮
-\x1b[1;91m鉃acebook: MISHAL KHAN MISHI 鉂ゐ煂�
-\x1b[1;91m鉃ang: NIGHT 007 FAMILY馃挭馃挭
-\x1b[1;91m鉃ｂ潳馃尮 FAISAL X MISHAL 馃尮鉂�
-\x1b[1;93m 鉃ｂ灒鉃ｂ灒鉃LONING MASTER HERE馃槉鉃ｂ灒鉃ｂ灒鉃�
+\x1b[1;91m__Coder  : MISHAL KHAN MISHI🎀
+\x1b[1;91m__Github : HTTPS://GITHUB.COM/MISHI007🌹
+\x1b[1;91m__Facebok: MISHAL KHAN MISHI🎀
+\x1b[1;91m__Gang   : NIGHT 007 FAMILY❤❤
+\x1b[1;91m__Lover  : FAISAL X MISHAL🦋🦋
+\x1b[1;93m ______  : CLONING MASTER🔅
 \x1b[1;95m-----------------------------------------------------"""
 # titik #
 def tik():
